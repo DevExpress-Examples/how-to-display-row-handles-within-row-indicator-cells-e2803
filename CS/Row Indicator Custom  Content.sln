@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Row Indicator Custom  Content", "Row Indicator Custom  Content\Row Indicator Custom  Content.csproj", "{A9B59826-D155-4BAA-BE40-F870C9F9861E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9B59826-D155-4BAA-BE40-F870C9F9861E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B59826-D155-4BAA-BE40-F870C9F9861E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B59826-D155-4BAA-BE40-F870C9F9861E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B59826-D155-4BAA-BE40-F870C9F9861E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
