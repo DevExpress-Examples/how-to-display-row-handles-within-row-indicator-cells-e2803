@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainPage.xaml](./CS/Row Indicator Custom  Content/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/Row Indicator Custom  Content/MainPage.xaml.vb))**
+* [MainPage.xaml.cs](./CS/Row Indicator Custom  Content/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Row Indicator Custom  Content/MainPage.xaml.vb))
+* [Products.cs](./CS/Row Indicator Custom  Content/Products.cs) (VB: [Products.vb](./VB/Row Indicator Custom  Content/Products.vb))
+<!-- default file list end -->
 # How to Display Row Handles within Row Indicator Cells
 
 
